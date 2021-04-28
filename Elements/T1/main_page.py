@@ -1,0 +1,23 @@
+class MainpageElement:
+    announcement_modal_dialog_close_button = "close"  # by Class Name
+    login_button = "nav-link"  # by Class Name
+    username_field = "usernameField"  # by ID
+    sign_up_button = "default-side-banner-link"  # by Class Name
+    create_account_button = "col-lg-auto"  # by Class Name
+    all_slot_games_button = "/html/body/div/div/div/div[1]/div[2]/div[1]/a/span[2]"  # by XPath
+    all_live_games_button = "/html/body/div/div/div/div[1]/div[2]/div[2]/a/span[2]"  # by XPath
+    all_sport_games_button = "/html/body/div/div/div/div[1]/div[2]/div[3]/a/span[2]"  # by XPath
+    promotion_button = "/html/body/div/div/div/div[1]/div[2]/a[1]/span[2]"  # by XPath
+    providers_button = "/html/body/div/div/div/div[1]/div[2]/a[2]/span[2]"  # by Xpath
+    center_button = "/html/body/div/div/div/div[1]/div[2]/div[4]/a[1]/span[2]"  # by Xpath
+    center_funds_button = "/html/body/div/div/div/div[1]/div[2]/div[4]/div/a[1]/span[2]"  # by XPath
+    games_title = "title"  # by Class Name
+    deposit_button = "nav-item"  # by Class Name
+    center_account_button = "/html/body/div/div/div/div[1]/div[2]/div[4]/div/a[2]/span[2]"  # by XPath
+    center_referrer_button = "/html/body/div/div/div/div[1]/div[2]/div[4]/div/a[3]/span[2]"  # by XPath
+    center_notification_button= "/html/body/div/div/div/div[1]/div[2]/div[4]/div/a[4]/span[2]"  # by XPath
+    logout_button = "/html/body/div/div/div/div[1]/div[2]/div[4]/a[2]/span[2]"  # by XPath
+    notification_icon = "text-secondary"  # by Class Name
+    notification_page_title = "my-3"  # by Class Name
+    deposit_button_at_main = "btn-primary"  # by Class Name
+    deposit_page_title = "#page-content-wrapper > div.content.p-2.pt-5.pt-md-5.px-md-4 > div > div:nth-child(1) > div > div > span"  # by CSS Name
